@@ -1,0 +1,3 @@
+Baixa o XAMPP
+coloca o arquivo na pasta htdocs
+e no chrome vai no localhost...
