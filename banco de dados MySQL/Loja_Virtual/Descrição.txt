@@ -1,0 +1,1 @@
+Usando o XAMPP conectamos no phpMyAdmin e criamos o banco de dados de uma loja virtual.
