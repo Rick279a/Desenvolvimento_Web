@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src/MyApp"
+        }
+    },
+    "require": {
+        "slim/slim": "3.*",
+        "illuminate/database": "^12.12"
+    }
+}
