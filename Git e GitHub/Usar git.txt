@@ -1,0 +1,22 @@
+git init 
+(Inicia um repositório Git na pasta atual)
+
+
+git status 
+(Mostra o que mudou: arquivos novos, modificados ou prontos para commit)
+
+
+git add NOME DO ARQUIVO 
+(Seleciona um arquivo para ser incluído no próximo commit)
+
+
+git commit -m ...
+(Salva as alterações com uma mensagem descritiva)
+
+
+git@github.com:Rick279a/Desenvolvimento_Web.git 
+(pega a pasta toda)
+
+
+git@github.com:Rick279a/Desenvolvimento_Web.git . 
+(pega os arquivos) 
