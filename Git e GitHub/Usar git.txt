@@ -20,3 +20,7 @@ git@github.com:Rick279a/Desenvolvimento_Web.git
 
 git@github.com:Rick279a/Desenvolvimento_Web.git . 
 (pega os arquivos) 
+
+
+git push
+(Envia os commits do seu repositório local para o GitHub)
